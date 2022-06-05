@@ -14,6 +14,7 @@ public class Main {
         for (int i = 0; i < n; i++) {
             arr[i] = x.nextLong();
         }
+        System.out.println("Second commit");
 
     }
 }
